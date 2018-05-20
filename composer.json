@@ -1,0 +1,5 @@
+{
+    "require": {
+        "peesoft/yii": "^1.1"
+    }
+}
